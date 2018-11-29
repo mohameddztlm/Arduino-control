@@ -1,0 +1,10 @@
+C:\Users\mohamed\source\repos\Arduino_control\Arduino_control\obj\Debug\Arduino_control.csprojAssemblyReference.cache
+C:\Users\mohamed\source\repos\Arduino_control\Arduino_control\obj\Debug\Arduino_control.Form1.resources
+C:\Users\mohamed\source\repos\Arduino_control\Arduino_control\obj\Debug\Arduino_control.Properties.Resources.resources
+C:\Users\mohamed\source\repos\Arduino_control\Arduino_control\obj\Debug\Arduino_control.csproj.GenerateResource.cache
+C:\Users\mohamed\source\repos\Arduino_control\Arduino_control\obj\Debug\Arduino_control.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\source\repos\Arduino_control\Arduino_control\bin\Debug\Arduino_control.exe.config
+C:\Users\mohamed\source\repos\Arduino_control\Arduino_control\bin\Debug\Arduino_control.exe
+C:\Users\mohamed\source\repos\Arduino_control\Arduino_control\bin\Debug\Arduino_control.pdb
+C:\Users\mohamed\source\repos\Arduino_control\Arduino_control\obj\Debug\Arduino_control.exe
+C:\Users\mohamed\source\repos\Arduino_control\Arduino_control\obj\Debug\Arduino_control.pdb
