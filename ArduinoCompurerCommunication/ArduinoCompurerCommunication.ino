@@ -18,6 +18,7 @@ void setup(){
   pinMode(11,OUTPUT);
   pinMode(12,OUTPUT);
   pinMode(13,OUTPUT);
+  
 }
 void loop(){
   String readString,varible;
@@ -34,20 +35,25 @@ void loop(){
   }
 varible=readString;
 int i;
-
+if(varible=="44")
+  {
+    
+    Serial.write("44");
+    
+  }
 for(i=1;i<15;i++){
-  if(varible==listON[i]){
+   if(varible==listON[i]){
     digitalWrite(i,HIGH);
-  }
-  else if(varible==listOFF[i]){
+   }
+   else if(varible==listOFF[i])
+   {
     digitalWrite(i,LOW);
+   }  
+   else if(varible=="OFFALL")
+   {
+   PORTD=0;
+   PORTB=0;
+   }
   }
-
-else if(varible=="OFFALL")
-{
-  PORTD=0;
-  PORTB=0;
-}
-}
 varible="";
 }
